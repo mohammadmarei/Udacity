@@ -1,0 +1,22 @@
+header {
+  cursor: pointer;
+  flex-shrink: 0;
+  width: 220px;
+  padding: 24px 16px;
+}
+
+header h1, nav li {
+  text-transform: uppercase;
+}
+
+nav li {
+  border-bottom: 2px solid #d3d3d3;
+  width: fit-content;
+  margin: 12px 0;
+  padding-bottom: 8px;
+}
+
+nav li:hover {
+  border-bottom-color: #45e9f5;
+}
+/*# sourceMappingURL=Udacity.966b0c93.css.map */

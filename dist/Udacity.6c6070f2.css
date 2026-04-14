@@ -1,0 +1,2 @@
+li{list-style:none}body{flex-direction:row;min-height:100vh;margin:0;font-family:Inter,sans-serif;display:flex}main{flex:1;min-width:0;padding:32px;display:block}.notVisible{display:none}button{color:#fff;text-transform:uppercase;cursor:pointer;background-color:#45e9f5;border:none;border-radius:.5rem;padding:10px;font-weight:700}@media (width<=768px){body{flex-direction:column}header{width:100%}main{padding:20px}}
+/*# sourceMappingURL=Udacity.6c6070f2.css.map */
